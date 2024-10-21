@@ -163,7 +163,7 @@ action = "pause"; // Error
 
 Mål: Lära sig använda enums och literal types.
 
-Övning 6: tsconfig.json-Fördjupning
+Övning 6: tsconfig.json-Fördjupning (Detta ämne han vi inte gå igenom utan kommer nästa vecka)
 Uppgift:
 
 Utforska Inställningar:
