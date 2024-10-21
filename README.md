@@ -28,7 +28,7 @@ Week 1 codealongs, excersies and workshop.
 
 **9.** Define an _array_ that allows both `Product` and `Book` types.
 
-**10.** Write a small TS-program that has a `button` and a `h1`. When you click the `button`, a random number between 1-100 should appear in the `h1`. All varaibles etc must be typed. Top it of with a nice CSS.
+**10.** Write a small TS-program that has a `button` and a `h1`. When you click the `button`, a random number between 1-100 should appear in the `h1`. All variables etc must be typed. Top it of with a nice super awesome (S)CSS.
 
 ## Workshop project
 
