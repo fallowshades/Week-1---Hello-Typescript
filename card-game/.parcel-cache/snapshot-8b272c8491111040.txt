@@ -1,0 +1,19 @@
+18
+82C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist133740898191677055 1
+95C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\img\card-back.svg133740691243286285 0
+101C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist\index.47ca9330.css133740898191520565 0
+103C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist\main-bg.f70810d3.jpg133740898191520565 0
+105C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist\card-back.042b261a.svg133740898191440440 0
+108C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist\card-game.3464ddca.js.map133740898191657110 0
+93C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist\index.html133740898191470585 0
+100C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist\index.1c974c2f.js133740898191520565 0
+104C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist\card-game.3464ddca.js133740898191520565 0
+104C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist\index.1c974c2f.js.map133740898191657110 0
+105C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\dist\index.47ca9330.css.map133740898191657110 0
+81C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\css133740691243263013 1
+81C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\img133740691243296449 1
+88C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\index.html133740691243306470 0
+80C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\js133740691243335966 1
+90C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\js\script.js133740691243335966 0
+93C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\img\main-bg.jpg133740691243306470 0
+90C:\Users\Erik\OneDrive\Documents\chass\ts\Week-1---Hello-Typescript\card-game\css\main.css133740691243263013 0
