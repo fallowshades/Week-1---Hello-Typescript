@@ -1,6 +1,6 @@
 export type Card = {
-  suits: '$spades;' | '$hearts;' | '$clubs;' | '$diams;'
+  suite: '&spades;' | '&hearts;' | '&clubs;' | '&diams;'
   color: 'red' | 'black'
-  display: any
-  values: any
+  display: string // | number
+  value: number
 }

@@ -241,9 +241,64 @@ types.ts
 
 ```ts
 export type Card = {
-  suits: '$spades;' | '$hearts;' | '$clubs;' | '$diams;'
+  suite: '$spades;' | '$hearts;' | '$clubs;' | '$diams;'
   color: 'red' | 'black'
-  display: any
-  values: any
+  display: string | number
+  values: number
 }
+```
+
+conditional operator
+
+```js
+document.querySelector('#equal')?.addEventListener('click', equal)
+```
+
+mutation
+
+- push created
+
+```js
+function createDeck() {
+  let deck: Card[] = [],
+    suites = ['&spades;', '&hearts;', '&clubs;', '&diams;'] as const
+}
+
+for (let i = 0; i < suites.length; i++) {
+    for (let j = 2; j < 15; j++) {
+   let card: Card = {
+        suite: suites[i],
+        ..
+   }}}
+```
+
+deal with DOM manipulation
+
+```ts
+function setCard(card: Card): void {
+  document.querySelector('.placeholder')?.insertAdjacentElement('beforeend', el)
+}
+
+function updateAttempts() {
+  // Timer for cardanimation to complete
+
+  setTimeout(() => {
+    attempts--
+    //    document.querySelector('.attempts').innerHTML = attempts
+    const attemptsElement = document.querySelector('.attempts')
+    if (attemptsElement !== null) {
+      // Convert the number to a string and assign it to innerHTML
+      attemptsElement.innerHTML = attempts.toString()
+    }
+  }, 600)
+}
+
+function updateScore(factor = 10) {
+  // Timer for cardanimation to complete
+  setTimeout(() => {
+    // Score count algorithm can be refactored to include risk taking
+    score += previousCard.value * factor
+    document.querySelector('.score')!.innerHTML = score.toString()
+  }, 600)
+
 ```
